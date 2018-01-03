@@ -13,3 +13,7 @@ EXECUTABLE=$1
 `
 
 This ensures that wherever you put the game it will start. (Unless Spotlight can't index the drive/place the game is stored)
+
+# Screenshot
+
+![Screenshot](https://github.com/npyl/Hearthlands-on-macOS/blob/master/see.png)
